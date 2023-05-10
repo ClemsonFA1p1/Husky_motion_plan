@@ -19,3 +19,10 @@ Once the container is pulled, run an instance using standard Docker running tool
 Coordinates           |  Live
 :-------------------------:|:-------------------------:
 ![](https://github.com/ClemsonFA1p1/Husky_motion_plan/blob/main/moplan2.jpg)  |  ![](https://github.com/ClemsonFA1p1/Husky_motion_plan/blob/main/mplan3.jpg)
+
+
+To save the docker image as a zip file :
+
+```
+docker save myimage:latest | gzip > myimage_latest.tar.gz
+```
