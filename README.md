@@ -24,5 +24,5 @@ Coordinates           |  Live
 To save the docker image as a zip file :
 
 ```
-docker save myimage:latest | gzip > myimage_latest.tar.gz
+docker save husky_base_demo:motion_planning_v2 | gzip > myimage_latest.tar.gz
 ```
