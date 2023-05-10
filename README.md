@@ -15,9 +15,6 @@ Once the container is pulled, run an instance using standard Docker running tool
 1. pub_vel.py : This files publishes a manuver like fishook which has been fit to the gps coordinates realized by the A* planner
 2. gps_viz.py : This file visualizes live GPS readings as the Husky is executing the manuever
 
-GPS Coordinates and Realized Trajectory
-
-![](https://github.com/ClemsonFA1p1/Husky_motion_plan/blob/main/moplan2.jpg) ![](https://github.com/ClemsonFA1p1/Husky_motion_plan/blob/main/mplan3.jpg)
 
 Coordinates           |  Live
 :-------------------------:|:-------------------------:
