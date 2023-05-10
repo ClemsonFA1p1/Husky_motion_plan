@@ -17,4 +17,4 @@ Once the container is pulled, run an instance using standard Docker running tool
 
 GPS Coordinates and Realized Trajectory
 
-![alt text](https://github.com/ClemsonFA1p1/Husky_motion_plan/blob/main/moplan2.jpg) ![alt text](https://github.com/ClemsonFA1p1/Husky_motion_plan/blob/main/moplan3.jpg)
+![alt text](https://github.com/ClemsonFA1p1/Husky_motion_plan/blob/main/moplan2.jpg)  ![alt text](https://github.com/ClemsonFA1p1/Husky_motion_plan/blob/main/moplan3.jpg)
