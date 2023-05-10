@@ -10,6 +10,6 @@ docker pull asalvi179/husky_base_demo:motion_planning_v2
 Once the container is pulled, run an instance using standard Docker running tools. 
 
 ### Important files
-1: pub_vel.py : This files publishes a manuver like fishook which has been fit to the gps coordinates realized by the A* planner
+1. pub_vel.py : This files publishes a manuver like fishook which has been fit to the gps coordinates realized by the A* planner
 2. gps_viz.py : This file visualizes live GPS readings as the Husky is executing the manuever
 
